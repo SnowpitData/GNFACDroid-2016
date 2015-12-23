@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="gnfac.app"
+      android:versionCode="6"
+      android:versionName="1.05">
+    <application android:label="@string/app_name"
+                 android:icon="@drawable/friends_logo">
+        <activity android:name="GNFACActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="AdvisoryActivity">
+        </activity>
+        <activity android:name="PhotoActivity">
+        </activity>
+        <activity android:name="VideoActivity">
+        </activity>
+        <activity android:name="WeatherActivity">
+        </activity>
+        <activity android:name="SubmitActivity">
+        </activity>
+    </application>
+    <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" />
+    
+     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-sdk android:minSdkVersion="18" /> 
+</manifest>

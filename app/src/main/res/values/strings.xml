@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GNFAC Advisory</string>
+    <string name="main_title">GNFAC Advisory - Main</string>
+    <string name="advisory">Advisory</string>
+    <string name="advisory_title">Current Advisory</string>
+    <string name="photo_title">Photos from the field</string>
+    <string name="video_title">GNFAC Video Archive</string>
+    <string name="submit_title">Create Snowpack Obsevations</string>
+    <string name="weather_title">General Weather Information</string>
+    <string name="photos">Photos</string>
+    <string name="weather">Weather</string>
+    <string name="videos">Videos</string>
+    <string name="full_site">View Full Site</string>
+    <string name="submit_obs">Submit an observation/contact</string>
+</resources>
