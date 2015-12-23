@@ -22,7 +22,8 @@ public class VideoActivity extends Activity
         WebView wv = (WebView)findViewById(R.id.webview);
        /// wv.loadUrl("http://www.youtube.com/playlist?list=PLXu5151nmAvT7gHqdNajDBGfGY4u5XM");
        /// wv.loadUrl("https://www.youtube.com/playlist?list=PLXu5151nmAvRs_cO_yoHbvaXfYOqzrzjK");
-        ////////
+        wv.loadUrl("https://www.youtube.com/watch?v=XAvMGb-cNOw&list=PLXu5151nmAvTX9Ybgm8oLHDbsDFqwDO1A");
+
         finish();
     }
 }
