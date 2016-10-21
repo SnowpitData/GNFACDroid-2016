@@ -5,6 +5,7 @@
     android:layout_height="fill_parent"
     android:layout_margin="@dimen/large_margin"
     android:id="@+id/scroller"
+    android:theme="@style/Theme.Marks"
     >
 
 <LinearLayout
@@ -12,7 +13,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:layout_margin="@dimen/large_margin"
-    android:gravity="center_horizontal"
+    android:gravity="left"
     >
 
  <Button
