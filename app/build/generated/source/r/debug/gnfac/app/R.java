@@ -10,32 +10,57 @@ package gnfac.app;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static final int azure=0x7f050000;
+        public static final int blue=0x7f050001;
+        public static final int brown_100=0x7f050002;
+        public static final int brown_800=0x7f050003;
+        public static final int brown_900=0x7f050004;
+        public static final int cyan=0x7f050005;
+        public static final int dark_black=0x7f050006;
+        public static final int green=0x7f050007;
+        public static final int green_100=0x7f050008;
+        public static final int green_50=0x7f050009;
+        public static final int green_600=0x7f05000a;
+        public static final int green_900=0x7f05000b;
+        public static final int orange_100=0x7f05000c;
+        public static final int orange_200=0x7f05000d;
+        public static final int orange_50=0x7f05000e;
+        public static final int orange_500=0x7f05000f;
+        public static final int orange_700=0x7f050010;
+        public static final int orange_900=0x7f050011;
+        public static final int red_500=0x7f050012;
+        public static final int red_700=0x7f050013;
+        public static final int red_900=0x7f050014;
+    }
     public static final class dimen {
-        public static final int button_width=0x7f050000;
-        public static final int large_margin=0x7f050001;
-        public static final int large_text=0x7f050002;
-        public static final int med_large_text=0x7f050003;
-        public static final int med_text=0x7f050004;
-        public static final int small_margin=0x7f050005;
-        public static final int small_med_text=0x7f050006;
-        public static final int small_text=0x7f050007;
-        public static final int standard_margin=0x7f050008;
-        public static final int very_large_text=0x7f050009;
+        public static final int action_bar_height=0x7f060000;
+        public static final int action_bar_padding=0x7f060001;
+        public static final int button_width=0x7f060002;
+        public static final int large_margin=0x7f060003;
+        public static final int large_text=0x7f060004;
+        public static final int med_large_text=0x7f060005;
+        public static final int med_text=0x7f060006;
+        public static final int small_margin=0x7f060007;
+        public static final int small_med_text=0x7f060008;
+        public static final int small_text=0x7f060009;
+        public static final int standard_margin=0x7f06000a;
+        public static final int very_large_text=0x7f06000b;
     }
     public static final class drawable {
         public static final int friends_logo=0x7f020000;
         public static final int fs_logo=0x7f020001;
     }
     public static final class id {
-        public static final int advisory=0x7f070001;
-        public static final int full_site=0x7f070007;
-        public static final int map=0x7f070005;
-        public static final int photos=0x7f070002;
-        public static final int scroller=0x7f070000;
-        public static final int submit=0x7f070006;
-        public static final int videos=0x7f070003;
-        public static final int weather=0x7f070004;
-        public static final int webview=0x7f070008;
+        public static final int advisory=0x7f090001;
+        public static final int full_site=0x7f090007;
+        public static final int map=0x7f090005;
+        public static final int photos=0x7f090002;
+        public static final int scroller=0x7f090000;
+        public static final int submit=0x7f090006;
+        public static final int videos=0x7f090003;
+        public static final int weather=0x7f090004;
+        public static final int webview=0x7f090008;
     }
     public static final class layout {
         public static final int main=0x7f030000;
@@ -45,18 +70,24 @@ public final class R {
         public static final int map=0x7f040000;
     }
     public static final class string {
-        public static final int advisory=0x7f060000;
-        public static final int advisory_title=0x7f060001;
-        public static final int app_name=0x7f060002;
-        public static final int full_site=0x7f060003;
-        public static final int main_title=0x7f060004;
-        public static final int photo_title=0x7f060005;
-        public static final int photos=0x7f060006;
-        public static final int submit_obs=0x7f060007;
-        public static final int submit_title=0x7f060008;
-        public static final int video_title=0x7f060009;
-        public static final int videos=0x7f06000a;
-        public static final int weather=0x7f06000b;
-        public static final int weather_title=0x7f06000c;
+        public static final int advisory=0x7f070000;
+        public static final int advisory_title=0x7f070001;
+        public static final int app_name=0x7f070002;
+        public static final int full_site=0x7f070003;
+        public static final int main_title=0x7f070004;
+        public static final int photo_title=0x7f070005;
+        public static final int photos=0x7f070006;
+        public static final int submit_obs=0x7f070007;
+        public static final int submit_title=0x7f070008;
+        public static final int video_title=0x7f070009;
+        public static final int videos=0x7f07000a;
+        public static final int weather=0x7f07000b;
+        public static final int weather_title=0x7f07000c;
+    }
+    public static final class style {
+        public static final int Theme_Marks=0x7f080000;
+        public static final int Theme_Marks_Lite=0x7f080001;
+        public static final int Widget_Marks_ActionButtonOverflow=0x7f080002;
+        public static final int Widget_Marks_Menu=0x7f080003;
     }
 }

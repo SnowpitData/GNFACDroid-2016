@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mark/Desktop/GNFACDroid-2016/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/mark/Desktop/GNFACDroid-2016/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/mark/Desktop/GNFACDroid-2016/app/build/intermediates/res/merged/debug/layout/web_view.xml",
+        "source": "/Users/mark/Desktop/GNFACDroid-2016/app/src/main/res/layout/web_view.xml"
+    }
+]

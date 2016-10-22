@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mark/Desktop/GNFACDroid-2016/app/build/intermediates/res/merged/debug/drawable-mdpi/fs_logo.png",
+        "source": "/Users/mark/Desktop/GNFACDroid-2016/app/src/main/res/drawable-mdpi/fs_logo.png"
+    },
+    {
+        "merged": "/Users/mark/Desktop/GNFACDroid-2016/app/build/intermediates/res/merged/debug/drawable-mdpi/friends_logo.png",
+        "source": "/Users/mark/Desktop/GNFACDroid-2016/app/src/main/res/drawable-mdpi/friends_logo.png"
+    }
+]

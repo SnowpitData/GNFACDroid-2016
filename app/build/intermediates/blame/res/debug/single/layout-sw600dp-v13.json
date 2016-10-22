@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mark/Desktop/GNFACDroid-2016/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/web_view.xml",
+        "source": "/Users/mark/Desktop/GNFACDroid-2016/app/src/main/res/layout-sw600dp/web_view.xml"
+    },
+    {
+        "merged": "/Users/mark/Desktop/GNFACDroid-2016/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/main.xml",
+        "source": "/Users/mark/Desktop/GNFACDroid-2016/app/src/main/res/layout-sw600dp/main.xml"
+    }
+]
