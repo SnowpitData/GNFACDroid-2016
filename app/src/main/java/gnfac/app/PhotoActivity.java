@@ -21,5 +21,6 @@ public class PhotoActivity extends Activity
         setContentView(R.layout.web_view);
         WebView wv = (WebView)findViewById(R.id.webview);
         wv.loadUrl("http://www.mtavalanche.com/photo?theme=mobile_simple");
+        wv.setWebViewClient(new AviWebViewClient(this));
     }
 }

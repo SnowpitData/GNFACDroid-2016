@@ -20,7 +20,7 @@ public class VideoActivity extends Activity
         setTitle(getResources().getString(R.string.video_title));
         setContentView(R.layout.web_view);
         WebView wv = (WebView)findViewById(R.id.webview);
-        wv.loadUrl("https://www.youtube.com/watch?v=XAvMGb-cNOw&list=PLXu5151nmAvTX9Ybgm8oLHDbsDFqwDO1A");
+        wv.loadUrl(" https://www.youtube.com/playlist?list=PLXu5151nmAvQF9mZXCg1Xqg08x3Sfg0am");
 
         finish();
     }

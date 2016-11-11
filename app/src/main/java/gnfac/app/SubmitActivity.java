@@ -22,5 +22,6 @@ public class SubmitActivity extends Activity
         WebView wv = (WebView)findViewById(R.id.webview);
         wv.getSettings().setJavaScriptEnabled(true);
         wv.loadUrl("http://www.mtavalanche.com/node/add/snow-observations?theme=mobile_simple");
+        wv.setWebViewClient(new AviWebViewClient(this));
     }
 }

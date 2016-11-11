@@ -5,6 +5,7 @@
     android:layout_height="fill_parent"
     android:layout_margin="@dimen/large_margin"
     android:id="@+id/scroller"
+    android:background="@color/orange_50"
     >
 
 <LinearLayout
@@ -16,7 +17,7 @@
     >
 
  <Button
-    android:layout_width="@dimen/button_width"
+    android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:textSize="@dimen/med_text"
     android:id="@+id/advisory"
@@ -24,7 +25,7 @@
     />
     
  <Button
-    android:layout_width="@dimen/button_width"
+    android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:textSize="@dimen/med_text"
     android:id="@+id/photos"
@@ -32,7 +33,7 @@
     />
     
   <Button
-    android:layout_width="@dimen/button_width"
+    android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:textSize="@dimen/med_text"
     android:id="@+id/videos"
@@ -40,7 +41,7 @@
     />
     
   <Button
-    android:layout_width="@dimen/button_width"
+    android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:textSize="@dimen/med_text"
     android:id="@+id/weather"
@@ -55,7 +56,7 @@
     />
 
 <Button
-    android:layout_width="@dimen/button_width"
+    android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:textSize="@dimen/med_text"
     android:id="@+id/submit"
@@ -63,7 +64,7 @@
     />
     
 <Button
-    android:layout_width="@dimen/button_width"
+    android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:textSize="@dimen/med_text"
     android:id="@+id/full_site"
